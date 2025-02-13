@@ -58,21 +58,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Yagisan/SS2-Plotapalooza-Helper/main/assets/images/SS2_PAP_Hero_20250123.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/SS2-Plotapalooza-Helper/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Plotapalooza Helper.wabbajack_572a7d94-fbac-4db2-baf6-f9030708b5cd",
+      "download": "https://authored-files.wabbajack.org/Plotapalooza Helper.wabbajack_7b2fec54-b86b-4cd7-869b-f2ff6d5795e3",
       "machineURL": "SS2PAP",
       "discordURL": "https://discord.gg/rB5RFgHhUD"
     },
     "download_metadata": {
-      "Hash": "TBRgYwgmoyY=",
-      "Size": 140499181,
-      "NumberOfArchives": 911,
-      "SizeOfArchives": 45319146150,
+      "Hash": "EXCeVZPo240=",
+      "Size": 140502906,
+      "NumberOfArchives": 910,
+      "SizeOfArchives": 45319125501,
       "NumberOfInstalledFiles": 135759,
-      "SizeOfInstalledFiles": 57773915687
+      "SizeOfInstalledFiles": 57773915756
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-12T22:48:26.5450518Z",
+    "dateUpdated": "2025-02-13T06:33:37.2645603Z",
     "repositoryName": ""
   }
 ]
