@@ -72,5 +72,43 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-02-23T23:15:09.265836Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Rebuilding the Commonwealth",
+    "description": "Rebuilding the Commonwealth is a curated modlist that is focused on settlement building in survival mode.",
+    "author": "Yagisan",
+    "maintainers": [
+      "github/Yagisan"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/refs/heads/main/assets/images/RtC_Hero_20250411.webp",
+      "readme": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Plotapalooza Helper.wabbajack_a3429983-b2ed-4ca8-99cb-1af84abf27fe",
+      "machineURL": "RtC",
+      "discordURL": "https://discord.gg/rB5RFgHhUD"
+    },
+    "download_metadata": {
+      "Hash": "WmY1OamG/cw=",
+      "Size": 572693699,
+      "NumberOfArchives": 834,
+      "SizeOfArchives": 110432180479,
+      "NumberOfInstalledFiles": 154761,
+      "SizeOfInstalledFiles": 135873740090,
+      "TotalSize": 246305920569
+    },
+    "version": "0.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-02-23T23:15:09.265836Z",
+    "repositoryName": ""
   }
 ]
