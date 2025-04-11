@@ -93,7 +93,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/refs/heads/main/assets/images/RtC_Hero_20250411.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/main/README.md",
