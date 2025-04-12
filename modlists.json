@@ -97,23 +97,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/refs/heads/main/assets/images/RtC_Hero_20250411.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Rebuilding the Commonwealth.wabbajack_08ae9bca-3c83-4756-a611-c4c16b97d076",
+      "download": "https://authored-files.wabbajack.org/Rebuilding the Commonwealth.wabbajack_114326cf-0cec-4c44-bfd4-9d1dcc9b11d7",
       "machineURL": "RtC",
       "discordURL": "https://discord.gg/rB5RFgHhUD",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "u96fj7rQVmM=",
-      "Size": 572693128,
-      "NumberOfArchives": 834,
-      "SizeOfArchives": 110432180479,
-      "NumberOfInstalledFiles": 154761,
-      "SizeOfInstalledFiles": 135873740107,
-      "TotalSize": 246305920586
+      "Hash": "gHpPW1tXfOU=",
+      "Size": 572697602,
+      "NumberOfArchives": 845,
+      "SizeOfArchives": 162158595976,
+      "NumberOfInstalledFiles": 154798,
+      "SizeOfInstalledFiles": 187634157925,
+      "TotalSize": 349792753901
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-04-10T19:36:56.6648801Z",
+    "dateUpdated": "2025-04-12T00:18:52.6957433Z",
     "repositoryName": ""
   }
 ]
