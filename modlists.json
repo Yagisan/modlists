@@ -19,23 +19,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp",
       "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_6ee183a5-7acf-4a49-80b5-7ce77506c5ba",
+      "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_a62d68c1-915e-4027-b388-bd61c456b041",
       "machineURL": "SS2CPC",
       "discordURL": "https://discord.gg/rB5RFgHhUD",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ue3ZdI1VkvQ=",
-      "Size": 64289872,
-      "NumberOfArchives": 368,
-      "SizeOfArchives": 56279690205,
+      "Hash": "BJhficBmguM=",
+      "Size": 64293644,
+      "NumberOfArchives": 367,
+      "SizeOfArchives": 56279427723,
       "NumberOfInstalledFiles": 129875,
-      "SizeOfInstalledFiles": 74862665361,
-      "TotalSize": 131142355566
+      "SizeOfInstalledFiles": 74861996706,
+      "TotalSize": 131141424429
     },
-    "version": "4.24",
+    "version": "4.25.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-24T19:55:54.1754565Z",
+    "dateUpdated": "2026-03-22T06:42:56.6362717Z",
     "repositoryName": ""
   },
   {
@@ -61,7 +62,8 @@
       "download": "https://authored-files.wabbajack.org/Plotapalooza Helper.wabbajack_9d07f6ad-6588-41e9-a6f7-671ada7e0acf",
       "machineURL": "SS2PAP",
       "discordURL": "https://discord.gg/rB5RFgHhUD",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "Oi2dMnZhUog=",
@@ -100,7 +102,8 @@
       "download": "https://authored-files.wabbajack.org/Rebuilding the Commonwealth.wabbajack_2e936ff8-ad59-449d-9994-4e8f89fd49bf",
       "machineURL": "RtC",
       "discordURL": "https://discord.gg/rB5RFgHhUD",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "nC2CwRj+Amw=",
